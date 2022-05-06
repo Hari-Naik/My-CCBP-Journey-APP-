@@ -1,0 +1,57 @@
+/* Write your CSS here */
+.project-details-container {
+  width: 100%;
+  height: 100%;
+}
+
+.project-img {
+  width: 100%;
+  height: 100%;
+}
+
+.title-duration {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.project-title {
+  color: #171f46;
+  font-family: 'roboto';
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.icon {
+  color: #171f46;
+}
+
+.project-duration {
+  color: #171f46;
+  font-family: 'roboto';
+  font-size: 14px;
+  font-weight: 600;
+  padding-left: 8px;
+}
+
+.description {
+  color: #1e293b;
+  font-family: 'roboto';
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.link {
+  color: #2b237c;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.duration-card {
+  display: flex;
+  align-items: center;
+}
